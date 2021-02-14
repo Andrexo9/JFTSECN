@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by 김정은 (EMBRACE) -->
+<!--Cn Lottery 1-->
+<LotteryItemList>
+	<LotteryItem_Niki Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="2" _Name_="赛车靴(紫色)" ShopIndex="50116" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="3" _Name_="赛车靴(绿色)" ShopIndex="50115" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="4" _Name_="赛车头盔(紫色)" ShopIndex="50118" QuantityMin="1" QuantityMax="30" ChansPer="11" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="5" _Name_="赛车头盔(绿色)" ShopIndex="50117" QuantityMin="1" QuantityMax="30" ChansPer="11" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="6" _Name_="赛车手套" ShopIndex="50119" QuantityMin="1" QuantityMax="30" ChansPer="15" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="7" _Name_="赛车裤" ShopIndex="50114" QuantityMin="1" QuantityMax="30" ChansPer="15" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="8" _Name_="赛车服(紫色)" ShopIndex="50113" QuantityMin="1" QuantityMax="30" ChansPer="6" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Niki Index="9" _Name_="赛车服(绿色)" ShopIndex="50112" QuantityMin="1" QuantityMax="30" ChansPer="6" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="2" _Name_="赛车女郎遮阳帽(紫色)" ShopIndex="50124" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="3" _Name_="赛车女郎遮阳帽(绿色)" ShopIndex="50123" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="4" _Name_="赛车女郎服(紫色)" ShopIndex="50121" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="5" _Name_="赛车女郎服(绿色)" ShopIndex="50120" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="6" _Name_="白色赛车鞋" ShopIndex="50122" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lunlun Index="7" _Name_="运动护腕" ShopIndex="50374" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="2" _Name_="赛车靴(紫色)" ShopIndex="50129" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="3" _Name_="赛车靴(绿色)" ShopIndex="50128" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="4" _Name_="赛车头盔(紫色)" ShopIndex="50131" QuantityMin="1" QuantityMax="30" ChansPer="11" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="5" _Name_="赛车头盔(绿色)" ShopIndex="50130" QuantityMin="1" QuantityMax="30" ChansPer="11" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="6" _Name_="赛车手套" ShopIndex="50132" QuantityMin="1" QuantityMax="30" ChansPer="15" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="7" _Name_="赛车裤" ShopIndex="50127" QuantityMin="1" QuantityMax="30" ChansPer="15" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="8" _Name_="赛车服(紫色)" ShopIndex="50126" QuantityMin="1" QuantityMax="30" ChansPer="6" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Dhanpir Index="9" _Name_="赛车服(绿色)" ShopIndex="50125" QuantityMin="1" QuantityMax="30" ChansPer="6" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="2" _Name_="赛车女郎遮阳帽(紫色)" ShopIndex="50137" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="3" _Name_="赛车女郎遮阳帽(绿色)" ShopIndex="50136" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="4" _Name_="赛车女郎服(紫色)" ShopIndex="50134" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="5" _Name_="赛车女郎服(绿色)" ShopIndex="50133" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="6" _Name_="白色赛车鞋" ShopIndex="50135" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Lucy Index="7" _Name_="运动护腕" ShopIndex="50138" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="2" _Name_="赛车女郎遮阳帽(紫色)" ShopIndex="50143" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="3" _Name_="赛车女郎遮阳帽(绿色)" ShopIndex="50142" QuantityMin="1" QuantityMax="30" ChansPer="14" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="4" _Name_="赛车女郎服(紫色)" ShopIndex="50140" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="5" _Name_="赛车女郎服(绿色)" ShopIndex="50139" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="6" _Name_="白色赛车鞋" ShopIndex="50141" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Shua Index="7" _Name_="运动护腕" ShopIndex="50144" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="2" _Name_="赛车女郎遮阳帽(紫色)" ShopIndex="51085" QuantityMin="1" QuantityMax="30" ChansPer="13" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="3" _Name_="赛车女郎遮阳帽(绿色)" ShopIndex="51084" QuantityMin="1" QuantityMax="30" ChansPer="13" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="4" _Name_="赛车女郎服(紫色)" ShopIndex="51081" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="5" _Name_="赛车女郎服(绿色)" ShopIndex="51080" QuantityMin="1" QuantityMax="30" ChansPer="8" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="6" _Name_="赛车鞋(紫色)" ShopIndex="51083" QuantityMin="1" QuantityMax="30" ChansPer="10" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="7" _Name_="赛车鞋(绿色)" ShopIndex="51082" QuantityMin="1" QuantityMax="30" ChansPer="10" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Pochi Index="8" _Name_="运动护腕" ShopIndex="51088" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Al Index="1" _Name_="星货币(大)" ShopIndex="4080" QuantityMin="1" QuantityMax="1" ChansPer="30" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Al Index="2" _Name_="赛车女郎遮阳帽(绿色)" ShopIndex="52810" QuantityMin="1" QuantityMax="30" ChansPer="18" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Al Index="3" _Name_="运动护腕" ShopIndex="52811" QuantityMin="1" QuantityMax="30" ChansPer="20" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Al Index="4" _Name_="赛车女郎服(绿色)" ShopIndex="52812" QuantityMin="1" QuantityMax="30" ChansPer="12" Effect="3" ProductOpt="0"/>
+	<LotteryItem_Al Index="5" _Name_="白色赛车鞋" ShopIndex="52813" QuantityMin="1" QuantityMax="30" ChansPer="20" Effect="3" ProductOpt="0"/>
+</LotteryItemList>

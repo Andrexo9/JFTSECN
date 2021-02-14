@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2009 sp1 (http://www.altova.com) by Jin Young Jang (NPICSoft Co., Ltd.) -->
+<!--Lotto sba-->
+<LotteryList>
+	<Lottery Index="1" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="1" Icon="Item_GatchaCoin00_00" LotteryTime="1" Name_cn="古代硬币" Desc_cn="使用古代硬币转动艾瑞斯的转盘就有机会获得艾瑞斯的礼物。"/>
+	<Lottery Index="2" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="2" Icon="Item_GatchaCoin01_02" LotteryTime="1" Name_cn="魔方" Desc_cn="转动创世者的魔方,将获得神奇的奖励。"/>
+	<Lottery Index="3" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="3" Icon="Item_GatchaCoin00_03" LotteryTime="1" Name_cn="森林古币" Desc_cn="抽取动物森林宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="4" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="4" Icon="Item_GatchaCoin01_04" LotteryTime="1" Name_cn="运动会代币" Desc_cn="抽取全民运动会宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="5" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="5" Icon="Item_GatchaCoin00_05" LotteryTime="1" Name_cn="材料店兑换币" Desc_cn="抽取材料宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="6" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="6" Icon="Item_GatchaCoin01_01" LotteryTime="1" Name_cn="魔法晶石" Desc_cn="抽取魔法道具宝箱的必需道具。"/>
+	<Lottery Index="7" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="7" Icon="Item_GatchaCoin01_06" LotteryTime="1" Name_cn="家具宝箱" Desc_cn="家具宝箱"/>
+	<Lottery Index="8" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="8" Icon="Item_GatchaCoin01_07" LotteryTime="1" Name_cn="09款民族服装宝箱" Desc_cn="抽取民族服装宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="9" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="9" Icon="Item_GatchaCoin01_08" LotteryTime="1" Name_cn="恶魔与天使宝箱" Desc_cn="抽取恶魔与天使宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="10" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="10" Icon="Item_GatchaCoin01_09" LotteryTime="1" Name_cn="速度与激情宝箱" Desc_cn="抽取速度与激情宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="11" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="1" Icon="Item_GatchaCoin01_00" LotteryTime="1" Name_cn="古代硬币" Desc_cn="使用古代硬币转动艾瑞斯的转盘就有机会获得艾瑞斯的礼物。"/>
+	<Lottery Index="12" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="3" Icon="Item_GatchaCoin01_03" LotteryTime="1" Name_cn="森林古币" Desc_cn="抽取动物森林宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="13" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="5" Icon="Item_GatchaCoin01_05" LotteryTime="1" Name_cn="材料店兑换币" Desc_cn="抽取材料宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="14" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="10" Icon="Item_GatchaCoin00_09" LotteryTime="1" Name_cn="速度与激情宝箱" Desc_cn="抽取速度与激情宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="15" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="11" Icon="Item_GatchaCoin01_06" LotteryTime="1" Name_cn="闪亮金币宝箱" Desc_cn="抽取闪亮金币宝箱的必需道具,可在狩猎地图获得。"/>
+	<Lottery Index="16" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="12" Icon="Item_Common36_24" LotteryTime="1" Name_cn="龙之宝箱(红)" Desc_cn="抽取特雷姆斯系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="17" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="13" Icon="Item_Common41_03" LotteryTime="1" Name_cn="龙之宝箱(橙)" Desc_cn="抽取克莱奥斯系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="18" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="14" Icon="Item_Common41_04" LotteryTime="1" Name_cn="龙之宝箱(蓝)" Desc_cn="抽取莱索恩系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="19" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="15" Icon="Item_Common41_05" LotteryTime="1" Name_cn="龙之宝箱(紫)" Desc_cn="抽取安多葛斯系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="20" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="16" Icon="Item_GatchaCoin00_00" LotteryTime="1" Name_cn="圣诞节宝箱" Desc_cn="抽取圣诞节礼物的必需道具。"/>
+	<Lottery Index="21" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="17" Icon="Item_GatchaCoin00_01" LotteryTime="1" Name_cn="女皇宝箱(蓝)" Desc_cn="抽取狄奥多拉女皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="22" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="18" Icon="Item_GatchaCoin00_02" LotteryTime="1" Name_cn="女皇宝箱(绿)" Desc_cn="抽取狄奥多拉女皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="23" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="19" Icon="Item_GatchaCoin00_03" LotteryTime="1" Name_cn="海皇宝箱(蓝)" Desc_cn="抽取安德里亚海皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="24" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="20" Icon="Item_GatchaCoin00_04" LotteryTime="1" Name_cn="海皇宝箱(绿)" Desc_cn="抽取安德里亚海皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="25" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="21" Icon="Item_GatchaCoin00_05" LotteryTime="1" Name_cn="熊猫服装宝箱" Desc_cn="抽取熊猫系列服装的必需道具。"/>
+	<Lottery Index="26" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="22" Icon="Item_GatchaCoin00_06" LotteryTime="1" Name_cn="兔子服装宝箱" Desc_cn="抽取兔子系列服装的必需道具。"/>
+	<Lottery Index="27" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="23" Icon="Item_GatchaCoin00_07" LotteryTime="1" Name_cn="小猫服装宝箱" Desc_cn="抽取小猫系列服装的必需道具。"/>
+	<Lottery Index="28" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="24" Icon="Item_GatchaCoin00_08" LotteryTime="1" Name_cn="小狗服装宝箱" Desc_cn="抽取小狗系列服装的必需道具。"/>
+	<Lottery Index="29" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="25" Icon="Item_GatchaCoin00_09" LotteryTime="1" Name_cn="女皇宝箱(紫)" Desc_cn="抽取狄奥多拉女皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="30" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="26" Icon="Item_GatchaCoin00_10" LotteryTime="1" Name_cn="女皇宝箱(红)" Desc_cn="抽取狄奥多拉女皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="31" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="27" Icon="Item_GatchaCoin00_11" LotteryTime="1" Name_cn="海皇宝箱(红）" Desc_cn="抽取安德里亚海皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="32" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="28" Icon="Item_GatchaCoin00_12" LotteryTime="1" Name_cn="海皇宝箱(暗）" Desc_cn="抽取安德里亚海皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="33" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="29" Icon="Item_GatchaCoin00_13" LotteryTime="1" Name_cn="世界杯服装纪念币" Desc_cn="用于兑换世界杯球衣的纪念币。"/>
+	<Lottery Index="34" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="30" Icon="Item_GatchaCoin00_19" LotteryTime="1" Name_cn="图腾魔宝箱" Desc_cn="图腾魔系列服装的必需道具。"/>
+	<Lottery Index="35" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="31" Icon="Item_GatchaCoin00_09" LotteryTime="1" Name_cn="海皇宝箱(黑)" Desc_cn="抽取安德里亚海皇系列服装的必需道具,可在特定地图获得。"/>
+	<Lottery Index="36" _Name_="판타라" UseType="Count" MaxUse="999" LotteryItemListPath="32" Icon="Item_GatchaCoin00_09" LotteryTime="1" Name_cn="裁决者TB-255型箱" Desc_cn="抽取裁决者TB-255型系列服装的必需道具,可在特定地图获得。"/>
+</LotteryList>
+            
