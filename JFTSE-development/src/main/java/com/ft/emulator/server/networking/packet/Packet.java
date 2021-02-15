@@ -165,7 +165,7 @@ public class Packet {
 
         if(result.contains("�")){
             result = result.substring(0, result.length() - 1);
-            this.readPosition -=2;
+            this.readPosition -=1 ;
         }
 
 
@@ -181,7 +181,7 @@ public class Packet {
             this.readPosition += stringLength + 1;
         }
 
-        return result;
+        return result;  
     }
 
     public byte[] getRawPacket() {
