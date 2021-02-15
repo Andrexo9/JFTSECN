@@ -15,7 +15,7 @@
 
 ## Introduction
 
-**JFTSE** is an open source project for the game **Fantasy Tennis** based on [**AnCoFT**](https://github.com/AnCoFT/AnCoFT).    
+**JFTSECN** is an open source project for the game **Fantasy Tennis** based on [**JFTSE**] customized for CN client    
 
 Its is based on AnCoFT, because back then, I started writing a private server as well, due to my lack of experience in that topic I abandoned it, in that time.    
 I'm really thankful that AnCoFT started that project as well and reversed the structure of how packets are working etc. and released it! Due to him I could continue and use/utilize packet sniffs I made back then (which has more stuff than AnCoFT project)    
